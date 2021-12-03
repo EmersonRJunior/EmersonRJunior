@@ -1,0 +1,3 @@
+- Olá eu sou o @EmersonRJunior
+- Tenho bastante interesse em automação, machine learning e I.A.
+- Atualmente estou estudando Python mais profundamente e um pouco de HTML, CSS e JS
